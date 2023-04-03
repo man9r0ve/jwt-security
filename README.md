@@ -1,3 +1,3 @@
 # jwt-security
 
-## springboot 3, Lombok, PostgreSQL, jwt
+## Spring Boot 3, Spring Security, Lombok, PostgreSQL, jwt
